@@ -43,3 +43,14 @@ visited[N]-массив пройденных вершин;
 start-начальная вершина, с которой начинаем двигаться по ребрам графа.
 
 ![image](https://github.com/MoonLightFoxKs/algorithms/blob/main/BFS%20graph/image%20124.png)
+
+Depth-First Search in graph (обход графа в глубину)
+
+pr[N]-массив предшествующих вершин;
+N-число вершин в графе;
+visited[N]-массив пройденных вершин;
+start-начальная вершина, с которой начинаем двигаться по ребрам графа;
+go-рекурсивная функция.
+
+![image](https://github.com/MoonLightFoxKs/algorithms/blob/main/DFS%20graph/image%20125.png)
+
