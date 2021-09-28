@@ -54,3 +54,7 @@ go-рекурсивная функция.
 
 ![image](https://github.com/MoonLightFoxKs/algorithms/blob/main/DFS%20graph/image%20125.png)
 
+
+Dijkstra's algorithm (алгоритм Дейкстры)
+
+![image](https://github.com/MoonLightFoxKs/algorithms/blob/main/Dijkstra's%20algorithm/image%20130.png)
