@@ -4,7 +4,6 @@ Data structures and algorithms
 Queue and stack (очередь и стек)
 
 ![image](https://github.com/MoonLightFoxKs/algorithms/blob/main/queue%20and%20stack/queue.png)
-
 ![image](https://github.com/MoonLightFoxKs/algorithms/blob/main/queue%20and%20stack/stack.png)
 
 
@@ -35,4 +34,12 @@ where – адрес узла, к которому мы добавляем до�
 ![image](https://github.com/MoonLightFoxKs/algorithms/blob/main/binary%20tree/image%20122.png)
 ![image](https://github.com/MoonLightFoxKs/algorithms/blob/main/binary%20tree/image%20123.png)
 
-![image]()
+
+Breadth-first search in graph
+
+pr[N]-массив предшествующих вершин;
+N-число вершин в графе;
+visited[N]-массив пройденных вершин;
+start-начальная вершина, с которой начинаем двигаться по ребрам графа.
+
+![image](https://github.com/MoonLightFoxKs/algorithms/blob/main/BFS%20graph/image%20124.png)
