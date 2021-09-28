@@ -35,7 +35,7 @@ where – адрес узла, к которому мы добавляем до�
 ![image](https://github.com/MoonLightFoxKs/algorithms/blob/main/binary%20tree/image%20123.png)
 
 
-Breadth-first search in graph (обход в ширину)
+Breadth-first search in graph (обход графа в ширину)
 
 pr[N]-массив предшествующих вершин;
 N-число вершин в графе;
